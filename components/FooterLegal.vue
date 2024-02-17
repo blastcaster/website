@@ -16,11 +16,11 @@
       ©
       <a
         class="text-blueGreenLight hover:underline"
-        href="https://blastlora.xyz/"
+        href="https://blastcast.xyz/"
         target="_blank"
         @click="onClick"
       >
-        BlastLora Protocol
+        BlastCast Protocol
       </a>
       <!-- | Except as
       <a

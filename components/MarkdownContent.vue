@@ -1,7 +1,7 @@
 <template>
   <div>
     <seo-tags
-      :title="content.title + ' | BlastLora Protocol'"
+      :title="content.title + ' | BlastCast Protocol'"
       :description="content.description"
     />
     <Hero :title="content.title" :description="content.description" />

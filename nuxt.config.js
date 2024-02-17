@@ -3,12 +3,12 @@ export default {
   target: 'static',
 
   generate: {
-    fallback: 'blastlora-404.html',
+    fallback: 'blastcast-404.html',
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'BlastLora Protocol is the basic axiom of the nft world.',
+    title: 'BlastCast Protocol is the basic axiom of the nft world.',
     htmlAttrs: {
       lang: 'en',
     },

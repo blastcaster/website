@@ -18,7 +18,7 @@ export default {
   },
   head() {
     return {
-      title: 'Team | BlastLora Protocol',
+      title: 'Team | BlastCast Protocol',
     };
   },
 };

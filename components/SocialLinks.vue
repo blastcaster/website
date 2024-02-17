@@ -24,7 +24,7 @@ import Icon from './Icon';
 const socialLinks = [
   {
     text: 'Github',
-    link: 'https://github.com/blastlora/',
+    link: 'https://github.com/blastcast/',
     icon: 'github-icon',
   },
   {
